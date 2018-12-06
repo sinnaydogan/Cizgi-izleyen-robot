@@ -11,6 +11,7 @@ Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasar
 - QTR-8A Kızıl ötesi sensör
 - Dc Motor
 - Robot Gövdesi
+- Rasbian
 ### Kullanılan Kütüphaneler
 - import RPi.GPIO as IO
 - import time
