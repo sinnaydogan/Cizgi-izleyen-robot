@@ -5,9 +5,13 @@ Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasar
 # Çizgi izleyen Çalışması
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=axOC6SCBFMI)
 ## Raspberry Pi cmd ekranı çıktıları
+- Düz Gidiyor
 ![](images/cmd1.png)
+- Duruyor
 ![](images/cmd2.png)
+- Sağa Gidiyor
 ![](images/cmd3.png)
+- Sola Gidiyor
 ![](images/cmd4.png)
 ## Çizgi izleyen gerçeklemesi
 ![](images/cizgi.jpg)
