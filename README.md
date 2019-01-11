@@ -17,9 +17,6 @@ Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasar
 - Sola Gidiyor
 
 ![](images/cmd4.png)
-## Çizgi izleyen gerçeklemesi
-![](images/cizgi.jpg)
-![](images/cizgi2.jpg)
 ## Kullanılan Teknolojiler 
 - Raspberry-pi 3
 - Python 
@@ -43,6 +40,9 @@ Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasar
 3) Raspberry-Pi Çizgi izleyen robot Devre Şeması yapıldı.
 4) Visual Studio Code kullanılarak projenin Python kodları yazıldı.
 5) Donanımsal olarak bileşenleri birleştirme ve kodların Raspberry-pi 3'e aktarılması üzerinde çalışmaya devam ediliyor.
+## Çizgi izleyen gerçeklemesi
+![](images/cizgi.jpg)
+![](images/cizgi2.jpg)
 ## Kaynaklar
 Fritzing için;
 - https://www.youtube.com/channel/UCIBNyQal8YBosUrY44dTS5A
