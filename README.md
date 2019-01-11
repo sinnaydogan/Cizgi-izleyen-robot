@@ -1,7 +1,9 @@
 # Cizgi-izleyen-robot
 Raspberry-pi 3, Python kullanılarak geliştirilmiş Çizgi İzleyen Robot
 ## Projenin Genel Tanımı ve Amacı
-Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasarımı ve kodlaması. Beyaz zemin üzerindeki siyah çizgi üzerinde ilerleyen ve rotadan çıkmayan robotik araç tasarımı.
+Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasarımı ve kodlaması. Beyaz zemin üzerindeki siyah çizgi üzerinde ilerleyen ve rotadan çıkmayan robotik araç tasarımı
+# Çizgi izleyen Çalışması
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=HbQ1I_V3Vnw&start_radio=1&list=RDHbQ1I_V3Vnw)
 ## Kullanılan Teknolojiler 
 - Raspberry-pi 3
 - Python 
@@ -31,3 +33,5 @@ Fritzing için;
 
 Raspberry-pi için;
 - https://www.youtube.com/channel/UChklsLaaAUw8fWw2LHnun4Q
+
+
