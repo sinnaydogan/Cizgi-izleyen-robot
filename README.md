@@ -6,8 +6,7 @@ Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasar
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=axOC6SCBFMI)
 ## Çizgi izleyen gerçeklemesi
 ![](images/cizgi.jpg)
-![](images/cizg2.jpg)
-![](images/cizgi1.jpg)
+![](images/cizgi2.jpg)
 ## Kullanılan Teknolojiler 
 - Raspberry-pi 3
 - Python 
