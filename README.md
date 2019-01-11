@@ -27,7 +27,7 @@ Raspberry-pi 3 üzerinde Python dili kullanılarak Çizgi İzleyen Robotun tasar
 - import time
 ## Sistem Bileşen Diyagramı 
 ![](images/UML-Diyagramı.jpg)
-## Sistem DEvresinin Fritzing Programında Kurulumu
+## Sistem Devresinin Fritzing Programında Kurulumu
 ![](images/Fritzing-ScreenShot.png)
 ## Projenin Uygulama Aşamaları
 1) Python ve Raspberry-pi 3 ile çizgi izleyen robot yapımı hakkında araştıırma yapıldı. 
